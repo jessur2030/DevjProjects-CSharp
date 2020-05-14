@@ -1,0 +1,13 @@
+C:\Users\005060238\Desktop\C#_winter_2019\jessur_lab4.2\jessur_lab4.2\bin\Debug\jessur_lab4.2.exe.config
+C:\Users\005060238\Desktop\C#_winter_2019\jessur_lab4.2\jessur_lab4.2\bin\Debug\jessur_lab4.2.exe
+C:\Users\005060238\Desktop\C#_winter_2019\jessur_lab4.2\jessur_lab4.2\bin\Debug\jessur_lab4.2.pdb
+C:\Users\005060238\Desktop\C#_winter_2019\jessur_lab4.2\jessur_lab4.2\obj\Debug\jessur_lab4.2.exe
+C:\Users\005060238\Desktop\C#_winter_2019\jessur_lab4.2\jessur_lab4.2\obj\Debug\jessur_lab4.2.pdb
+C:\Users\005060238\Desktop\C#_winter_2019\jessur_lab4.2\jessur_lab4.2\obj\Debug\jessur_lab4.2.csprojResolveAssemblyReference.cache
+E:\CSharp_summer2019\Week4\jessur_lab4.2\jessur_lab4.2\bin\Debug\jessur_lab4.2.exe.config
+E:\CSharp_summer2019\Week4\jessur_lab4.2\jessur_lab4.2\bin\Debug\jessur_lab4.2.exe
+E:\CSharp_summer2019\Week4\jessur_lab4.2\jessur_lab4.2\bin\Debug\jessur_lab4.2.pdb
+E:\CSharp_summer2019\Week4\jessur_lab4.2\jessur_lab4.2\obj\Debug\jessur_lab4.2.csprojAssemblyReference.cache
+E:\CSharp_summer2019\Week4\jessur_lab4.2\jessur_lab4.2\obj\Debug\jessur_lab4.2.csproj.CoreCompileInputs.cache
+E:\CSharp_summer2019\Week4\jessur_lab4.2\jessur_lab4.2\obj\Debug\jessur_lab4.2.exe
+E:\CSharp_summer2019\Week4\jessur_lab4.2\jessur_lab4.2\obj\Debug\jessur_lab4.2.pdb

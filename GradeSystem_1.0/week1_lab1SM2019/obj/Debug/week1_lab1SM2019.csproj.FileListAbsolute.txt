@@ -1,0 +1,14 @@
+C:\Users\005060238\Desktop\C#summer2019Labs\week1_lab1SM2019\week1_lab1SM2019\bin\Debug\week1_lab1SM2019.exe.config
+C:\Users\005060238\Desktop\C#summer2019Labs\week1_lab1SM2019\week1_lab1SM2019\bin\Debug\week1_lab1SM2019.exe
+C:\Users\005060238\Desktop\C#summer2019Labs\week1_lab1SM2019\week1_lab1SM2019\bin\Debug\week1_lab1SM2019.pdb
+C:\Users\005060238\Desktop\C#summer2019Labs\week1_lab1SM2019\week1_lab1SM2019\obj\Debug\week1_lab1SM2019.csprojAssemblyReference.cache
+C:\Users\005060238\Desktop\C#summer2019Labs\week1_lab1SM2019\week1_lab1SM2019\obj\Debug\week1_lab1SM2019.csproj.CoreCompileInputs.cache
+C:\Users\005060238\Desktop\C#summer2019Labs\week1_lab1SM2019\week1_lab1SM2019\obj\Debug\week1_lab1SM2019.exe
+C:\Users\005060238\Desktop\C#summer2019Labs\week1_lab1SM2019\week1_lab1SM2019\obj\Debug\week1_lab1SM2019.pdb
+E:\CSharp_summer2019\week1_lab1SM2019\week1_lab1SM2019\bin\Debug\week1_lab1SM2019.exe.config
+E:\CSharp_summer2019\week1_lab1SM2019\week1_lab1SM2019\bin\Debug\week1_lab1SM2019.exe
+E:\CSharp_summer2019\week1_lab1SM2019\week1_lab1SM2019\bin\Debug\week1_lab1SM2019.pdb
+E:\CSharp_summer2019\week1_lab1SM2019\week1_lab1SM2019\obj\Debug\week1_lab1SM2019.csprojAssemblyReference.cache
+E:\CSharp_summer2019\week1_lab1SM2019\week1_lab1SM2019\obj\Debug\week1_lab1SM2019.csproj.CoreCompileInputs.cache
+E:\CSharp_summer2019\week1_lab1SM2019\week1_lab1SM2019\obj\Debug\week1_lab1SM2019.exe
+E:\CSharp_summer2019\week1_lab1SM2019\week1_lab1SM2019\obj\Debug\week1_lab1SM2019.pdb

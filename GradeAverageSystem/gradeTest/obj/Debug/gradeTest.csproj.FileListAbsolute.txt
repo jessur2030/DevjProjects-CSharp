@@ -1,0 +1,14 @@
+C:\Users\jrosa\Desktop\gradeTest\gradeTest\bin\Debug\gradeTest.exe.config
+C:\Users\jrosa\Desktop\gradeTest\gradeTest\bin\Debug\gradeTest.exe
+C:\Users\jrosa\Desktop\gradeTest\gradeTest\bin\Debug\gradeTest.pdb
+C:\Users\jrosa\Desktop\gradeTest\gradeTest\obj\Debug\gradeTest.exe
+C:\Users\jrosa\Desktop\gradeTest\gradeTest\obj\Debug\gradeTest.pdb
+C:\Users\jrosa\Desktop\gradeTest\gradeTest\obj\Debug\gradeTest.csprojAssemblyReference.cache
+C:\Users\jrosa\Desktop\gradeTest\gradeTest\obj\Debug\gradeTest.csproj.CoreCompileInputs.cache
+C:\Users\jrosa\Desktop\StudentGradeSystem\gradeTest\bin\Debug\gradeTest.exe.config
+C:\Users\jrosa\Desktop\StudentGradeSystem\gradeTest\bin\Debug\gradeTest.exe
+C:\Users\jrosa\Desktop\StudentGradeSystem\gradeTest\bin\Debug\gradeTest.pdb
+C:\Users\jrosa\Desktop\StudentGradeSystem\gradeTest\obj\Debug\gradeTest.csprojAssemblyReference.cache
+C:\Users\jrosa\Desktop\StudentGradeSystem\gradeTest\obj\Debug\gradeTest.csproj.CoreCompileInputs.cache
+C:\Users\jrosa\Desktop\StudentGradeSystem\gradeTest\obj\Debug\gradeTest.exe
+C:\Users\jrosa\Desktop\StudentGradeSystem\gradeTest\obj\Debug\gradeTest.pdb
