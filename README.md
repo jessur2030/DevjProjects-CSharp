@@ -1,2 +1,2 @@
-# DevjProjects-CSharp
-C# Sharp Projects
+# CSharp Projects
+C# NEIT Labs
